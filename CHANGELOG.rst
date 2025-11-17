@@ -5,6 +5,9 @@ Changelog
 x.x.x ?
 =======
 
+* **Documentation:** Added Markdown README (README.md) as GitHub front page with quickstart guide
+* **Documentation:** Added Russian README (README.ru.md) for Russian-speaking community
+* **Documentation:** Improved documentation structure with language switching between English and Russian
 * Add `QueryMode` parameter in CloudwatchMetricsTarget
 * Added support `alias` via the `legendFormat` option for `Target`
 * Added `neutral` option for `GaugePanel` (supported by Grafana 9.3.0 - https://github.com/grafana/grafana/discussions/38273)
